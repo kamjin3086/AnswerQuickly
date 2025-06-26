@@ -4,6 +4,7 @@ description: Why AllShadCN is an Essential Resource for Shadcn UI
 authorId: 934943ec-2c26-4a9b-b652-2cea9abc57f2
 authorName: Nandini26singh
 date: '2025-06-26T10:48:45.877Z'
+lastModified: '2025-06-26T10:49:36.656Z'
 ---
 
 [AllShadCN](https://allshadcn.com/) aggregates a wide range of tools, components, and integrations tailored for Shadcn UI. Whether you're looking to streamline your development process or customize your UI, this list offers:
