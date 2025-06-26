@@ -33,5 +33,10 @@
     "name": "Query Domains",
     "description": "Quickly check whether the domain name is available.",
     "url": "https://query.domains/"
+  },
+  {
+    "name": "Allshadcn ",
+    "description": "Dive into the ultimate curated collection of Shadcn Templates, Components, Blocks and Tools to fuel your next project ",
+    "url": "https://allshadcn.com/"
   }
 ]
